@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 why fetch didn't work?
 
+=======
+don't know
+>>>>>>> 7027fa4 (again changed)
